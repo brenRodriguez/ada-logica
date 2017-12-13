@@ -26,3 +26,11 @@ h1{
 	border-radius: 5%;
 	background-color: inherit;
 }
+#btn_agregar{
+	border:5px solid black;
+	border-radius: 5%;
+	background-color: inherit;
+}
+#check {
+font-weight: bold;
+	}
